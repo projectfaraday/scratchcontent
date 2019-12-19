@@ -1,2 +1,3 @@
 # projectfaraday.github.io
-intersection(physics, code)
+
+## interesting (hopefully) problems involving scientific computation
