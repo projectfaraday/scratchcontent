@@ -1,3 +1,2 @@
-# project faraday
-
-## interesting (hopefully) problems involving scientific computation
+# obselete
+### this code has been deprecated
